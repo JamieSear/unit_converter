@@ -2,7 +2,7 @@
 A CLI application that converts measurements
 
 ## Known bugs:
-- cannot install package on other machines
+- can install package on other machines but cannot run
 
 ## Run instructions:
 - Clone this repo
